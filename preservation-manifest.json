@@ -420,9 +420,9 @@
     },
     {
       "path": "index.html",
-      "bytes": 81708,
-      "sha256": "3f98c7b1a56fc4d4ab326207df14f4c4b9b752ed592a7f31e7f50b45fd424ffb",
-      "git_blob_sha": "0ddb4d0be878f0bcd3d165f6d788543847ac0692"
+      "bytes": 81690,
+      "sha256": "807da73277b40c02cd65d2283b9ba71b48c6a092144fdf955636ec14b2f081df",
+      "git_blob_sha": "1f8a99061a7812c171971e7733cc1493c12ca86a"
     },
     {
       "path": "js/al.min.js",
@@ -516,9 +516,9 @@
     },
     {
       "path": "projects.json",
-      "bytes": 50154,
-      "sha256": "869736963e3f191ff9699a3c9141e491f4fa1ea7ce5dccc609fe785d918b6228",
-      "git_blob_sha": "c74a25c5945f9bbb4a869f78f995390624ba9cba"
+      "bytes": 50136,
+      "sha256": "529878e7e88c6dfa9bb03e0ffaa1a740e3e8eb9a4483613d6ed8a673d09a9d98",
+      "git_blob_sha": "68c7c3606a6c54146e8ea0c35bacf4685cdc70b9"
     },
     {
       "path": "styles/fontello/fontello-embedded.css",
