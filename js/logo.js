@@ -8,11 +8,12 @@ var logoOptions = {
 var alogo;
 var tickleInterval;
 
-window.onresize = showViewport;
+window.addEventListener('resize', showViewport);
 
 // hack to make logo responsive
 function showViewport() {
 	var logoContainer = document.getElementById('logo-col12');
+	if (!logoContainer) return;
 	var bBox = logoContainer.getBoundingClientRect();
 	var width = bBox.width;
 	var wScale = width / logoOptions.w;

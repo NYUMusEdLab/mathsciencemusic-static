@@ -1,0 +1,260 @@
+{
+  "checked": "2026-10-09",
+  "scope": "Public-resource corrections only. Availability observations do not prove permanent retirement. Descriptions and original URLs retained; no access permissions changed.",
+  "links": [
+    {
+      "project": "about-math-science-music",
+      "label": "Music Code Mixer",
+      "original": "https://www.madewithcode.com/projects/music",
+      "action": "unavailable",
+      "note": "The former Music Code Mixer URL now leads to an unrelated page. No replacement has been verified.",
+      "evidence": "https://grow.google/certificates-academic-institutions/"
+    },
+    {
+      "project": "about-math-science-music",
+      "label": "Echonest Labs",
+      "original": "http://static.echonest.com/labs/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "about-math-science-music",
+      "label": "TinyRave Javascript Music Generator",
+      "original": "http://tinyrave.com/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "project": "ecosonic-playgrounds",
+      "label": "EcoSonic Playground Website",
+      "original": "https://sites.uml.edu/ecosonic_project/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "HTTP Error 410: Gone"
+    },
+    {
+      "project": "ecosonic-playgrounds",
+      "label": "More About the Project",
+      "original": "https://sites.uml.edu/ecosonic_project/for-teachers/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "HTTP Error 410: Gone"
+    },
+    {
+      "project": "music-and-cognition",
+      "label": "Neuroscience and Music - Dr. Ani Patel",
+      "original": "https://ase.tufts.edu/psychology/people/patel/",
+      "action": "replace",
+      "replacement": "https://as.tufts.edu/psychology/people/faculty/aniruddh-patel",
+      "evidence": "Official Tufts faculty page verified in Chrome; heading Aniruddh Patel and Music Cognition."
+    },
+    {
+      "project": "groove-pizza",
+      "label": "We Will Rock You",
+      "original": "http://mustech.net/2016/04/mid-week-lesson-pizza-groove-will-rock/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "making-music-count",
+      "label": "Impromptu Software",
+      "original": "http://www.tuneblocks.com",
+      "action": "unavailable",
+      "note": "The former software site now shows a directory listing. A working Impromptu download has not been verified.",
+      "evidence": "Index of /"
+    },
+    {
+      "project": "mathematics-of-music",
+      "label": "Course Homepage",
+      "original": "http://www.ams.jhu.edu/dan-mathofmusic/",
+      "action": "replace",
+      "replacement": "https://www.ams.jhu.edu/dan-mathofmusic/",
+      "evidence": "Matching official course or lesson page verified over HTTPS on 2026-10-09."
+    },
+    {
+      "project": "mathematics-of-music",
+      "label": "Number Theory",
+      "original": "http://www.ams.jhu.edu/dan-mathofmusic/number-theory/",
+      "action": "replace",
+      "replacement": "https://www.ams.jhu.edu/dan-mathofmusic/number-theory/",
+      "evidence": "Matching official course or lesson page verified over HTTPS on 2026-10-09."
+    },
+    {
+      "project": "mathematics-of-music",
+      "label": "Sound Waves",
+      "original": "http://www.ams.jhu.edu/dan-mathofmusic/sound-waves/",
+      "action": "replace",
+      "replacement": "https://www.ams.jhu.edu/dan-mathofmusic/sound-waves/",
+      "evidence": "Matching official course or lesson page verified over HTTPS on 2026-10-09."
+    },
+    {
+      "project": "mathematics-of-music",
+      "label": "Intervals, Exponents, Logarithms",
+      "original": "http://www.ams.jhu.edu/dan-mathofmusic/notes-intervals/",
+      "action": "replace",
+      "replacement": "https://www.ams.jhu.edu/dan-mathofmusic/notes-intervals/",
+      "evidence": "Matching official course or lesson page verified over HTTPS on 2026-10-09."
+    },
+    {
+      "project": "mathematics-of-music",
+      "label": "Stochastic Processes",
+      "original": "http://www.ams.jhu.edu/dan-mathofmusic/stochastic-processes/",
+      "action": "replace",
+      "replacement": "https://www.ams.jhu.edu/dan-mathofmusic/stochastic-processes/",
+      "evidence": "Matching official course or lesson page verified over HTTPS on 2026-10-09."
+    },
+    {
+      "project": "indian-rhythms-and-math",
+      "label": "Indian Rhythms & Music Website",
+      "original": "http://www.indianmusicmath.com/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "indian-rhythms-and-math",
+      "label": "Lessons",
+      "original": "http://www.indianmusicmath.com/#!lessons/c16fk",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "indian-rhythms-and-math",
+      "label": "Supplementary Worksheets",
+      "original": "http://www.indianmusicmath.com/#!supplementary-worksheets/e5phm",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "indian-rhythms-and-math",
+      "label": "About the Authors",
+      "original": "http://www.indianmusicmath.com/#!about-the-authors/crrl",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "academic-music",
+      "label": "The Sound of Music",
+      "original": "https://drive.google.com/open?id=0B193L9k1G7ICSEE5aERYYU96SjA",
+      "action": "access-note",
+      "note": "Google sign-in or document access may be required.",
+      "evidence": "Anonymous link check reached Google sign-in; no permissions changed."
+    },
+    {
+      "project": "academic-music",
+      "label": "12 Bar Blues Chords",
+      "original": "https://drive.google.com/open?id=0B193L9k1G7ICMkpEZlhRUjdkWmM",
+      "action": "access-note",
+      "note": "Google sign-in or document access may be required.",
+      "evidence": "Anonymous link check reached Google sign-in; no permissions changed."
+    },
+    {
+      "project": "academic-music",
+      "label": "PVC Monochord Instrument",
+      "original": "https://drive.google.com/open?id=0B193L9k1G7ICMW04WDltV2pYUkU",
+      "action": "access-note",
+      "note": "Google sign-in or document access may be required.",
+      "evidence": "Anonymous link check reached Google sign-in; no permissions changed."
+    },
+    {
+      "project": "academic-music",
+      "label": "Piano Keys",
+      "original": "https://drive.google.com/open?id=0B193L9k1G7ICWjExXzNfM0hKeEU",
+      "action": "access-note",
+      "note": "Google sign-in or document access may be required.",
+      "evidence": "Anonymous link check reached Google sign-in; no permissions changed."
+    },
+    {
+      "project": "aqwertyon",
+      "label": "Composing with aQWERTYon",
+      "original": "http://www.yciw.net/1/using-aqwertyon-to-begin-group-compositions/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "oiid",
+      "label": "oiid Education",
+      "original": "https://www.oiid.education/",
+      "action": "unavailable",
+      "note": "Unavailable at the October 2026 link check; the original resource is retained here for context.",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "project": "chrome-music-lab",
+      "label": "Spectrogram",
+      "original": "https://musiclab.chromeexperiments.com/",
+      "action": "replace",
+      "replacement": "https://musiclab.chromeexperiments.com/Spectrogram/",
+      "evidence": "Official Music Lab catalogue link and destination labelled Spectrogram verified in Chrome."
+    }
+  ],
+  "images": [
+    {
+      "original": "https://musedlab.org/images/musedlab-horizontal.jpg",
+      "label": "MusEDLab",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 404: Not Found"
+    },
+    {
+      "original": "http://steinhardt.nyu.edu/e/identity/k2/steinhardt_color.png",
+      "label": "NYU Steinhardt",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 404: Not Found"
+    },
+    {
+      "original": "https://adfs.uml.edu/adfs/portal/logo/logo.png",
+      "label": "UMass Lowell",
+      "action": "text-fallback",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "original": "http://www.trbimg.com/img-515dcf00/turbine/hc-uconn-logo-20130404-003/600/600x179",
+      "label": "University of Connecticut",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "original": "http://wiki.scratch.mit.edu/w/images/Logo.png",
+      "label": "Scratch",
+      "action": "text-fallback",
+      "evidence": "HTML asset response"
+    },
+    {
+      "original": "http://www.berkeley.edu/brand/img/logos/primarylogo.png",
+      "label": "University of California, Berkeley",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 403: Forbidden"
+    },
+    {
+      "original": "http://www.uml.edu/Images/umass-lowell-logo-opt_tcm18-170891.jpg",
+      "label": "UMass Lowell",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 404: Not Found"
+    },
+    {
+      "original": "http://cirl.lcsr.jhu.edu/wp-content/uploads/2013/09/WSE.png",
+      "label": "Johns Hopkins University",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 403: Forbidden"
+    },
+    {
+      "original": "http://www.oiid.org/msm/images/logo.png",
+      "label": "OIID",
+      "action": "text-fallback",
+      "evidence": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "original": "https://experiments.withgoogle.com/assets/img/google-logo.svg",
+      "label": "Google",
+      "action": "text-fallback",
+      "evidence": "HTTP Error 404: Not Found"
+    }
+  ]
+}

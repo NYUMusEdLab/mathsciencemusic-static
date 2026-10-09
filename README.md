@@ -25,8 +25,19 @@ Review content changes as repository commits. `projects.json` is a readable pres
 - Removed legacy analytics injection and the old Mailchimp validation initializer; the normal HTML form endpoint and fields remain.
 - Localhost previews suppress form submission.
 
+## Usability and resource repairs prepared on 2026-10-09
+
+- Responsive layouts tested at 320, 390, 768 and 1440 CSS pixels across all 13 project routes.
+- Native keyboard-operable project links and previous/next/all-resources buttons, visible focus indicators, heading focus after navigation and return focus on the selected tile.
+- English page language, hierarchical headings, descriptive image/frame labels, a labelled email field and native interest disclosures.
+- Seven verified official link corrections, thirteen explicit unavailable-resource notes and four Google Drive access notes. Decisions and original URLs are recorded in `resource-corrections.json`.
+- Missing partner images have labelled text fallbacks. Original locally preserved image, audio and font bytes are unchanged.
+- The retired Google+ sharing option is identified as unavailable.
+
+These repairs are a locally reviewed change set. The review package records their publication status and test evidence; this README alone does not establish that a deployment occurred.
+
 ## Known limits
 
-Several historical external partner-logo URLs no longer return images. Their original references are retained where no verified copy was available. Linked third-party applications, lessons, videos and Mailchimp remain separate dependencies; their availability is not guaranteed by preserving this site. Video URLs were retained, but full playback and signup delivery require acceptance testing. This is the public website export, not a database or CMS backup.
+Several historical external partner-logo URLs no longer return images. Visible text fallbacks identify them, and the correction ledger retains their original references. Linked third-party applications, lessons, videos and Mailchimp remain separate dependencies; their availability is not guaranteed by preserving this site. Video URLs were retained, but full playback and signup delivery require acceptance testing. The legacy AngularJS client and Jade build compiler remain future maintenance work. This is the public website export, not a database or CMS backup.
 
 Existing content and third-party assets retain their original rights and attribution. No new license is granted by this preservation copy.
