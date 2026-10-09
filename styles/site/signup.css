@@ -1,0 +1,92 @@
+
+@media (max-width: 991px) {
+	.row.signup {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 20px;
+		padding-bottom: 0;
+		height: 180%;
+	}	
+}
+@media (min-width: 992px) {
+	.row.signup {
+		padding-left: 40px;
+		padding-right: 40px;
+		padding-top: 20px;
+		padding-bottom: 0;
+		height: 180%;
+	}
+}
+
+.multiSelect div {
+    background-color: #0199a6;
+    padding-top:8px;
+    padding-bottom: 10px;
+    padding-left:10px;
+    font-size:16px;
+    color: white;
+    cursor:pointer;
+    line-height:1;
+    border-radius:2px;
+    width:100%;
+    cursor:pointer;
+    margin-top:1px;
+}
+
+.multiSelect div.active {
+    background-color: #266187;
+}
+
+.select {
+    font-size:18px;
+    color: white;
+    background-color: #0199a6;
+    cursor:pointer;
+    text-align:center;
+    padding-top:8px;
+    padding-bottom: 10px;
+    line-height:1;
+    border-radius:2px;
+    width: 100%;
+}
+
+.select.active {
+    /*background-color: #a81407;*/
+    background-color: #266187;
+}
+
+#left,#middle,#right {
+    margin-top:3px;
+}
+/*.signup li {*/
+    /*!*text-transform: uppercase;*!*/
+    /*list-style: none;*/
+    /*cursor:pointer;*/
+    /*margin-top:1px;*/
+    /*margin-left:-40px;*/
+    /*height:28px*/
+/*}*/
+
+.signup .multiSelect {
+    display:none
+}
+
+.hidden-signup {
+    display:none
+}
+
+/* override bootstrap class to make invisible mailchimp form more readable */
+.input-group {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mce_inline_error {
+    color: #a53662;
+}
+
+.response {
+    line-height: 1.5;
+    padding-top: 4px;
+    font-size: 12pt;
+}

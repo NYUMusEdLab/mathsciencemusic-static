@@ -1,0 +1,281 @@
+
+/* override bootstrap.css -15px margin. why? */
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+.row img {
+    max-width:100%;
+    height:auto;
+}
+
+.row1 {
+    /*background-color: #ffffff;*/
+    /*padding-left: 25px;*/
+    /*padding-top: 25px;*/
+    /*padding-right: 25px;*/
+    /*padding-bottom: 25px;*/
+    padding-left:0px;
+    padding-right:0px;
+}
+
+.video        {
+    position:relative;
+    padding-top: 56.25%; /* 9/16 aspect ratio */
+}
+
+.video iframe {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
+.project-badge {
+    background: #008898;
+    height:500px;
+    width:500px;
+}
+
+.project-item{
+    display: inline-block; !important;
+    padding: 0px;
+    vertical-align: bottom;
+    cursor: pointer;
+    position: relative;
+}
+
+@media (min-width: 320px) {
+    .project-item {
+        width: 50%;
+    }
+    p.badge-title {
+        font-size:3.0vw;
+    }
+    p.badge-tagline {
+        font-size:2.6vw;
+    }
+}
+
+@media (min-width: 992px) {
+    .project-item {
+        width: 33.33%;
+    }
+    p.badge-title {
+        font-size:2.6vw;
+    }
+    p.badge-tagline {
+        font-size:2.0vw;
+    }
+}
+
+div.project-thumb {
+    /*width:342px;*/
+    /*height:300px;*/
+    position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.project-item:before{
+    content: "";
+    display: block;
+    padding-top: 100%; 	/* initial ratio of 1:1*/
+}
+
+p.badge-title {
+    color:#efe7dc;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left:1em;
+    padding-top:1em;
+    padding-right:1em;
+    margin:0;
+    line-height: 1.1;
+    text-align:inherit;
+    word-spacing: 0px;
+}
+
+p.badge-tagline {
+    margin:0;
+    color:#efe7dc;
+    padding-left:1.3em;
+    line-height: 1.1;
+    text-align:inherit;
+    word-spacing: 0px;
+    padding-top:1%;
+}
+
+img.badge-icon {
+    max-height:190px;
+    padding-left:1em;
+    margin-top:-1%;
+}
+
+.item p.badge-title {
+    font-size:29pt;
+    font-weight: bold;
+    padding-left:5%;
+    padding-top:35px;
+}
+
+.item p.badge-tagline {
+    font-size:15pt;
+    padding-left:6%;
+}
+
+.title {
+    font-size: 20pt;
+    text-transform: uppercase;
+    padding: 8px;
+}
+
+li {
+    text-transform: uppercase;
+    list-style: none;
+    margin-top: 8px;
+    margin-left: -30px;
+    font-size: 18px;
+}
+
+.about {
+    background: #f4f4f4;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 70px;
+    padding-bottom: 50px;
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+	.about {
+		padding: 50px 6%;		
+	}
+}
+
+.about .title {
+    background: #f4f4f4;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.about .content {
+    padding: 0;
+}
+
+.about p {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.links {
+    background: #D9D9D6;
+    padding: 50px 6%;
+}
+
+@media (max-width: 992px) {
+	.row1{
+		height: 100% !important;
+	}
+	.about {
+		height: 100% !important;
+	}
+	.links {
+		height: 100% !important;
+	}
+}
+
+.links .title {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    /*margin-right:70px;*/
+}
+
+.links .content {
+    padding-top: 50px;
+    padding-left: 0px;
+    height:100%;
+}
+
+.links p {
+    border:2px solid white;
+    padding: 8px 15px;
+    line-height: 1.2;
+}
+
+.links a {
+    color:black;
+    font-size:18px;
+    text-transform: none;
+}
+
+.links li {
+    margin-bottom:10px;
+}
+
+.grade {
+    background: #E42A4A;
+    color:white;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.grade .title {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+
+}
+
+.concept {
+    background: #D68000;
+    color:white;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.concept .title {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.process {
+    background: #8DD3D7;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.process .title {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.partner-info {
+    background: #ffffff;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.partner-info .title {
+    background: #ffffff;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+
+}
+
+.partner-info .content {
+    padding:10px;
+}
+
+.partner-info img {
+    padding: 20px;
+    max-height: 100px;
+}
